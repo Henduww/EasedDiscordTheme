@@ -7,15 +7,16 @@ This theme requires Better Discord to function, as "vanilla" Discord does not cu
 Download Better Discord @ - https://betterdiscord.net/home/
 
 ### Files
-> **Source Code -** For copy/pasting into the "Custom CSS" tab, use this if you wish to customize a few bits for yourself.
+**Source Code -** For copy/pasting into the "Custom CSS" tab, use this if you wish to customize a few bits for yourself.
 
-> **Theme File -** For dragging into the "Themes" folder for Better Discord, use this for an easy install.
+**Theme File -** For dragging into the "Themes" folder for Better Discord, use this for an easy install.
 
-> **Preview -** Shows how Discord appears with this theme installed. ("Stock" image and color used.)
+**Preview -** Shows how Discord appears with this theme installed. ("Stock" image and color used.)
 
 ### How do I change the background image for chat?
-> First off, I'd recommend using an image with a wallpaper-standard resolution.
-> To use an image, you need a hyperlink for it. (Ex. https://imagedomain.com/thisimage.jpg) Must have *.jpg* or *.png* extension.
+First off, I'd recommend using an image with a wallpaper-standard resolution.
+
+To use an image, you need a hyperlink for it. (Ex. https://imagedomain.com/thisimage.jpg) Must have *.jpg* or *.png* extension.
 
 - To change the image with the source code, scroll down until you find the *Variables* section.
 - To change the image with the theme file, open it in notepad.
