@@ -1,0 +1,29 @@
+/*Scrollbars */
+.scroller-wrap .scroller::-webkit-scrollbar,.theme-dark .activityFeed-28jde9 ::-webkit-scrollbar {width:8px !important;}
+::-webkit-scrollbar-thumb {border-color: transparent !important;border-radius:0px !important;} 
+::-webkit-scrollbar, ::-webkit-scrollbar-track-piece,::-webkit-scrollbar-track {width:8px !important;border-color: transparent !important; background: transparent !important;}
+
+/* Top Bar (Server Info) */
+.theme-dark .container-2Rl01u, .header-2o-2hj {background: var(--main-clr);}
+.theme-dark .title-3qD0b- {background: var(--main-clr);}
+
+/* Chat */
+.theme-dark .chat .messages {
+    background: var(--chat-bck);
+    background-size: cover;
+}
+.theme-dark .chat form {
+    background: rgb(30, 30, 30);
+    margin: 0px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.theme-dark .typing-2GQL18 {background-color: rgb(30, 30, 30);}
+
+/* Channels */
+.theme-dark .container-1UB9sr {background: rgb(30, 30, 30);border-bottom: 0px;font-weight: bold;}
+.theme-dark .container-2Thooq {background: var(--main-clr);}
+
+/* Members */
+.theme-dark .members-1998pB {background-color: rgb(30, 30, 30);}
