@@ -9,6 +9,7 @@ Download Better Discord @ - https://betterdiscord.net/home/
 ### Files
 > **Source Code -** For copy/pasting into the "Custom CSS" tab, use this if you wish to customize a few bits for yourself.
 > **Theme File -** For dragging into the "Themes" folder for Better Discord, use this for an easy install.
+
 > **Preview -** Shows how Discord appears with this theme installed. ("Stock" image used, can be changed through the source code.)
 
 ### How do I change the background image for chat?
