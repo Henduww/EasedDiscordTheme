@@ -19,6 +19,7 @@ Download Better Discord @ - https://betterdiscord.net/home/
 - To change the image with the theme file, open it in notepad.
 
 With this hyperlink, change the `--chat-bck` variable's hyperlink to the image you wish to use.
+
 `--chat-bck: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url(**CHANGE THIS**);`
 
 > The *linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) )* part has to stay as it is, so the image doesn't dominate the chat.
@@ -26,7 +27,8 @@ With this hyperlink, change the `--chat-bck` variable's hyperlink to the image y
 #### Changing the Main Color
 The main color can also be changed. It uses standard RGB.
 
-Edit the '--main-clr' variable.
+Edit the `--main-clr` variable.
+
 `--main-clr: rgba(RED, GREEN, BLUE, ALPHA);`
 
 > **Alpha** means how "dominant" the color will be, the closer to 1 the value is, the more saturated the color will be.
