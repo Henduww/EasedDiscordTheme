@@ -27,7 +27,7 @@ With this hyperlink, change the `--chat-bck` variable's hyperlink to the image y
 
 > The `linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) )` part has to stay as it is, so the image doesn't dominate the chat.
 
-#### Changing the Main Color
+### Changing the Main Color
 The main color can also be changed. It uses standard RGB.
 
 Edit the `--main-clr` variable.
