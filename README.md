@@ -11,7 +11,7 @@ Download Better Discord @ - https://betterdiscord.net/home/
 
 > **Theme File -** For dragging into the "Themes" folder for Better Discord, use this for an easy install.
 
-> **Preview -** Shows how Discord appears with this theme installed. ("Stock" image used, can be changed through the source code.)
+> **Preview -** Shows how Discord appears with this theme installed. ("Stock" image and color used.)
 
 ### How do I change the background image for chat?
 > First off, I'd recommend using an image with a wallpaper-standard resolution.
