@@ -1,4 +1,4 @@
-# EasedDiscordTheme
+# EasedDiscordTheme 2.0
 Builds on the dark theme of Discord. Gives Discord a color change and calming background for the chat, while staying true to Discord's original feel. (Background image and color can be changed.)
 
 ## Created for BetterDiscord
@@ -32,6 +32,7 @@ The main color can also be changed. It uses standard RGB.
 
 Edit the `--main-clr` variable.
 
-`--main-clr: rgba(RED, GREEN, BLUE, ALPHA);`
+`--main-clr: RED, GREEN, BLUE;`
 
-> **Alpha** means how "dominant" the color will be, the closer to 1 the value is, the more saturated the color will be.
+> The `--dark-clr` variable may be changed too, although it's not recommended, but feel free to play around with it as you wish.
+
