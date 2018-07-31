@@ -1,5 +1,5 @@
 # EasedDiscordTheme
-Builds on the dark theme of Discord. Gives Discord a discreet color change and calming background for the chat. (Background image and color can be changed.)
+Builds on the dark theme of Discord. Gives Discord a color change and calming background for the chat, while staying true to Discord's original feel. (Background image and color can be changed.)
 
 ## Created for BetterDiscord
 This theme requires Better Discord to function, as "vanilla" Discord does not currently support custom themes.
