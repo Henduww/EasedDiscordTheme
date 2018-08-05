@@ -3,6 +3,8 @@ Builds on the dark theme of Discord. Gives Discord a color change and calming ba
 
 Now also includes a bunch of hover effects to compact Discord. When using Discord on a 2nd monitor, it's nice to not have everything clutter the chat, as that's what you really wanna see. This theme adds hover functionality to compact the chat form, the channels, the guild list, and members list.
 
+> PREVIEW: https://i.gyazo.com/00200b9508391416c65ee4ec78ef6497.mp4
+
 ## Created for BetterDiscord
 This theme requires Better Discord to function, as "vanilla" Discord does not currently support custom themes.
 
