@@ -376,10 +376,3 @@
     background-color: rgb(25, 25, 25);
     border: 1px solid rgba(var(--main-clr), 0.3);
 }
-
-/* Variables */
-:root {
-    --chat-bck: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url(https://i.imgur.com/nHarR1W.jpg);
-    --main-clr: 0, 95, 190; /* Main color RGB */
-    --dark-clr: 30, 30, 30; /* Dark color RGB, the darkest shade */
-}
