@@ -224,6 +224,17 @@
 	        transition: width 0.5s;
 	        color: gray;
 	    }
+		
+		.wrapperDefaultVoice-1yvceo, .wrapperLockedVoice-3QrBs- {
+			height: 0px;
+			transition: height 2s;
+		}
+		
+		.listDefault-36Sktb .horizontal-1ae9ci { display: block; }
+
+		.channels-Ie2l6A:hover .listDefault-36Sktb .horizontal-1ae9ci { display: flex; }
+		
+		.channels-Ie2l6A:hover .wrapperDefaultVoice-1yvceo, .channels-Ie2l6A:hover .wrapperLockedVoice-3QrBs- { height: 34px; }
 	    
 	    .channels-Ie2l6A:hover .nameDefault-2s3kbY,
 	    .channels-Ie2l6A:hover .nameSpeaking-3UhoEZ,
