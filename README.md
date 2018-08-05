@@ -1,4 +1,4 @@
-# EasedDiscordTheme 2.5
+# EasedDiscordTheme 2.6
 Builds on the dark theme of Discord. Gives Discord a color change and calming background for the chat, while staying true to Discord's original feel. (Background image and color can be changed.)
 
 Now also includes a bunch of hover effects to compact Discord. When using Discord on a 2nd monitor, it's nice to not have everything clutter the chat, as that's what you really wanna see. This theme adds hover functionality to compact the chat form, the channels, the guild list, and members list.
