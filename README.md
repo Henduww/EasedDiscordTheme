@@ -1,9 +1,9 @@
-# EasedDiscordTheme 2.6
-Builds on the dark theme of Discord. Gives Discord a color change and calming background for the chat, while staying true to Discord's original feel. (Background image and color can be changed.)
+# EasedDiscordTheme 3.0
+Aims to compact and simplify Discord by adding hover and focus effects on unecessary clutter. (Background image and color can be changed.)
 
-Now also includes a bunch of hover effects to compact Discord. When using Discord on a 2nd monitor, it's nice to not have everything clutter the chat, as that's what you really wanna see. This theme adds hover functionality to compact the chat form, the channels, the guild list, and members list.
+When using Discord on a 2nd monitor, it's nice to not have everything clutter the chat, as that's what you really wanna see. This theme adds hover functionality to compact the chat form, the channels, the guild list, and members list.
 
-> PREVIEW: https://i.gyazo.com/00200b9508391416c65ee4ec78ef6497.mp4
+> PREVIEW: https://i.gyazo.com/ae4049e02b03dad867d533c2222d7877.mp4
 
 ## Created for BetterDiscord
 This theme requires Better Discord to function, as "vanilla" Discord does not currently support custom themes.
@@ -12,6 +12,7 @@ Download Better Discord @ - https://betterdiscord.net/home/
 
 ### Files
 **Source Code -** For copy/pasting into the "Custom CSS" tab, use this if you wish to customize a few bits for yourself.
+**NOTE:** If you're using this file, you need to grab the `:root { }` section from the theme file and add it to the top of the code to get the colors and the background image.
 
 **Theme File -** For dragging into the "Themes" folder for Better Discord, use this for an easy install.
 
@@ -20,16 +21,14 @@ Download Better Discord @ - https://betterdiscord.net/home/
 ### How do I change the background image for chat?
 First off, I'd recommend using an image with a wallpaper-standard resolution.
 
-To use an image, you need a hyperlink for it. (Ex. https://imagedomain.com/thisimage.jpg) Must have *.jpg* or *.png* extension.
+To use an image, you need a hyperlink for it. (E.g. https://imagedomain.com/thisimage.jpg) Must have *.jpg* or *.png* extension.
 
-- To change the image with the source code, scroll down until you find the *Variables* section.
-- To change the image with the theme file, open it in notepad.
+- To change the image or colors with the source code, copy the root section from the theme file to the top of the code in the source file.
+- To change the image or colors with the theme file, open it in notepad.
 
 With this hyperlink, change the `--chat-bck` variable's hyperlink to the image you wish to use.
 
-`--chat-bck: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url(**CHANGE THIS**);`
-
-> The `linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) )` part has to stay as it is, so the image doesn't dominate the chat.
+`--img-url: url(**CHANGE THIS**);`
 
 ### Changing the Main Color
 The main color can also be changed. It uses standard RGB.
