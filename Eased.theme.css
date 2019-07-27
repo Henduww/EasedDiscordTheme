@@ -1,10 +1,10 @@
-//META{"name":"Eased","description":"Builds on the dark theme of Discord. Gives Discord a color change and calming background for the chat, while staying true to the Discord feel. (Background image and color can be changed, see download page for instructions.) Hover functionality added as of 2.5.","author":"Chaost#9871","version":"2.6"}*//{}
+//META{"name":"Eased","description":"Aims to compact and simplify Discord, while staying true to its dark theme.","author":"Chaost#9871","version":"3.0"}*//{}
 
 @import url("https://rawgit.com/Henduww/EasedDiscordTheme/master/EasedSC.css");
 
-/* Variables */
 :root {
-    --chat-bck: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url(https://i.imgur.com/nHarR1W.jpg); /* Chat Background */
-    --main-clr: 0, 95, 190; /* Main color RGB */
+    --img-url: url(http://sfwallpaper.com/images/cool-desktop-wallpapers-hd-5.jpg);
+    --chat-bck: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), var(--img-url); /* Chat Background */
+    --main-clr: 255, 129, 40; /* Main color RGB */
     --dark-clr: 30, 30, 30; /* Dark color RGB, the darkest shade */
 }
