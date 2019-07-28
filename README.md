@@ -3,10 +3,11 @@ Aims to compact and simplify Discord by adding hover and focus effects on uneces
 
 When using Discord on a 2nd monitor, it's nice to not have everything clutter the chat, as that's what you really wanna see. This theme adds hover functionality to compact the chat form, the channels, the guild list, and members list.
 
-VIDEO PREVIEW (Showcases hover functionality):
-https://i.gyazo.com/ae4049e02b03dad867d533c2222d7877.mp4
+> VIDEO PREVIEW (Showcases hover functionality):
+> https://i.gyazo.com/ae4049e02b03dad867d533c2222d7877.mp4
 
 A few examples of how you can customize the theme: (takes about 2-3 minutes if you're slow)
+
 Keep in mind that the channel tab, chat and member tab are all compacted until you hover them.
 
 <img src="https://camo.githubusercontent.com/98c7e9c59dbedb4efe8d881739d82ff225960448/68747470733a2f2f692e6779617a6f2e636f6d2f31363831313038353038656164646437636665303730383463366563643339622e6a7067" alt="Example 1" data-canonical-src="https://i.gyazo.com/1681108508eaddd7cfe07084c6ecd39b.jpg" width="245" style="">
@@ -36,7 +37,7 @@ To use an image, you need a hyperlink for it. (E.g. https://imagedomain.com/this
 - To change the image or colors with the source code, copy the root section from the theme file to the top of the code in the source file.
 - To change the image or colors with the theme file, open it in notepad.
 
-With this hyperlink, change the `--chat-bck` variable's hyperlink to the image you wish to use.
+With this hyperlink, change the `--img-url` variable's hyperlink to the image you wish to use.
 
 `--img-url: url(**CHANGE THIS**);`
 
