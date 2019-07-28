@@ -7,9 +7,9 @@ GIF PREVIEW (Showcases hover functionality):
 https://i.gyazo.com/ae4049e02b03dad867d533c2222d7877.mp4
 
 A few examples of how you can customize the theme: (takes about 2-3 minutes if you're slow)
-![Example 1](https://i.gyazo.com/1681108508eaddd7cfe07084c6ecd39b.jpg | width=100)
-![Example 2](https://i.gyazo.com/703ed95196c8619e2a0adf25e4d711b2.jpg | width=100)
-![Example 3](https://i.gyazo.com/eee628318e1930ff91c5e696c3016522.jpg | width=100)
+![Example 1](https://i.gyazo.com/1681108508eaddd7cfe07084c6ecd39b.jpg)
+![Example 2](https://i.gyazo.com/703ed95196c8619e2a0adf25e4d711b2.jpg)
+![Example 3](https://i.gyazo.com/eee628318e1930ff91c5e696c3016522.jpg)
 
 > NOTE: Some small details may be outdated in the examples. GIF should always be up-to date.
 
