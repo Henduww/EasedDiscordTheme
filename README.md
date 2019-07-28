@@ -7,9 +7,9 @@ GIF PREVIEW (Showcases hover functionality):
 https://i.gyazo.com/ae4049e02b03dad867d533c2222d7877.mp4
 
 A few examples of how you can customize the theme: (takes about 2-3 minutes if you're slow)
-<img src="https://camo.githubusercontent.com/98c7e9c59dbedb4efe8d881739d82ff225960448/68747470733a2f2f692e6779617a6f2e636f6d2f31363831313038353038656164646437636665303730383463366563643339622e6a7067" alt="Example 1" data-canonical-src="https://i.gyazo.com/1681108508eaddd7cfe07084c6ecd39b.jpg" style="max-width:100%;">
-<img src="https://camo.githubusercontent.com/31c66aad77dd3b50115e5b360ee090009013f45d/68747470733a2f2f692e6779617a6f2e636f6d2f37303365643935313936633836313965326130616466323565346437313162322e6a7067" alt="Example 2" data-canonical-src="https://i.gyazo.com/703ed95196c8619e2a0adf25e4d711b2.jpg" style="max-width:100%;">
-<img src="https://camo.githubusercontent.com/cee1109ceb0eb0ee3fad3fb7e334e173236943d6/68747470733a2f2f692e6779617a6f2e636f6d2f65656536323833313865313933306666393163356536393663333031363532322e6a7067" alt="Example 3" data-canonical-src="https://i.gyazo.com/eee628318e1930ff91c5e696c3016522.jpg" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/98c7e9c59dbedb4efe8d881739d82ff225960448/68747470733a2f2f692e6779617a6f2e636f6d2f31363831313038353038656164646437636665303730383463366563643339622e6a7067" alt="Example 1" data-canonical-src="https://i.gyazo.com/1681108508eaddd7cfe07084c6ecd39b.jpg" style="max-width:100px;">
+<img src="https://camo.githubusercontent.com/31c66aad77dd3b50115e5b360ee090009013f45d/68747470733a2f2f692e6779617a6f2e636f6d2f37303365643935313936633836313965326130616466323565346437313162322e6a7067" alt="Example 2" data-canonical-src="https://i.gyazo.com/703ed95196c8619e2a0adf25e4d711b2.jpg" style="max-width:100px;">
+<img src="https://camo.githubusercontent.com/cee1109ceb0eb0ee3fad3fb7e334e173236943d6/68747470733a2f2f692e6779617a6f2e636f6d2f65656536323833313865313933306666393163356536393663333031363532322e6a7067" alt="Example 3" data-canonical-src="https://i.gyazo.com/eee628318e1930ff91c5e696c3016522.jpg" style="max-width:100px;">
 
 > NOTE: Some small details may be outdated in the examples. GIF should always be up-to date.
 
