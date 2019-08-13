@@ -256,6 +256,17 @@
     border-top: 0px;
 }
 
+.theme-dark .typing-2GQL18 {
+    margin-bottom: 10px;
+    transition: 0.4s;
+}
+
+.theme-dark .chat-3bRxxu form:focus-within .typing-2GQL18,
+.theme-dark .chat-3bRxxu form:hover .typing-2GQL18 {
+    margin-bottom: 46px;
+    background: transparent;
+}
+
 	/* Mentions*/
 	.theme-dark .isMentioned-N-h9aa {
 		background: rgba(var(--main-clr),.1);
