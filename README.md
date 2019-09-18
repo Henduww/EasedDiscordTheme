@@ -1,10 +1,10 @@
-# EasedDiscordTheme 3.0
+# EasedDiscordTheme 3.1
 Aims to compact and simplify Discord by adding hover and focus effects on unecessary clutter. (Background image and color can be changed.)
 
 When using Discord on a 2nd monitor, it's nice to not have everything clutter the chat, as that's what you really wanna see. This theme adds hover functionality to compact the chat form, the channels, the guild list, and members list.
 
 > VIDEO PREVIEW (Showcases hover functionality):
-> https://i.gyazo.com/ae4049e02b03dad867d533c2222d7877.mp4
+> https://i.gyazo.com/a6b533e41f52173323003a5063ed88ff.mp4
 
 A few examples of how you can customize the theme: (takes about 2-3 minutes if you're slow)
 
@@ -15,6 +15,8 @@ Keep in mind that the channel tab, chat and member tab are all compacted until y
 <img src="https://camo.githubusercontent.com/cee1109ceb0eb0ee3fad3fb7e334e173236943d6/68747470733a2f2f692e6779617a6f2e636f6d2f65656536323833313865313933306666393163356536393663333031363532322e6a7067" alt="Example 3" data-canonical-src="https://i.gyazo.com/eee628318e1930ff91c5e696c3016522.jpg" width="245px" style="">
 
 > NOTE: Some small details may be outdated in the examples. GIF should always be up-to date.
+
+> NEW IN 3.1: Fixes for new Discord update + sleeker style for streaming banner
 
 ## Created for BetterDiscord
 This theme requires Better Discord to function, as "vanilla" Discord does not currently support custom themes.
