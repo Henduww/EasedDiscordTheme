@@ -1,9 +1,17 @@
-
 :root {
     --img-url: url(https://images5.alphacoders.com/100/thumb-1920-1000923.jpg);
     --chat-bck: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), var(--img-url); /* Chat Background */
     --main-clr: 0, 255, 153; /* Main color RGB */
     --dark-clr: 30, 30, 30; /* Dark color RGB, the darkest shade */
+}
+
+/* Home Button */
+.childWrapper-anI2G9 {
+    color: rgb(var(--main-clr));
+}
+
+.childWrapper-anI2G9:hover {
+    background-color: rgba(var(--main-clr), 0.5) !important;
 }
 
 /*Scrollbars */
