@@ -366,7 +366,7 @@
     	.container-1giJp5 {
     	    display: block;
     	}
-
+	    
 	    .container-1giJp5 .horizontal-1ae9ci {
 	        /*width:175px;*/
 	        padding-top: 5px;
@@ -377,27 +377,6 @@
 	        padding: 5px 30px;
 	        margin: 0px 4px;
 	        border: 1px solid rgba(var(--dark-clr), 0.3);
-	    }
-	    
-	    .channels-Ie2l6A:hover .container-1giJp5 .horizontal-1ae9ci {
-	        /*width:175px;*/
-	    }
-	    
-	    .channels-Ie2l6A:hover .container-1giJp5 .horizontal-1ae9ci .button-2JbWXs {
-	        padding: 5px 40px;
-	        margin: 0px 4px;
-	    }
-	
-	    .pingStatus-Jv9VGK {
-	        margin-left: 57px;
-	    }
-	    
-	    .channels-Ie2l6A:hover .pingStatus-Jv9VGK {
-	        margin-left: 0px;
-	    }
-	    
-	    .theme-dark .subtext-3ECeS_, .theme-light .subtext-3ECeS_ {
-	        color: #bbbbbb;
 	    }
 	
 	    /* Stream banner */
@@ -458,16 +437,16 @@
 	    
 	}
 	
-	.channels-Ie2l6A:hover .usernameFont-aFalyR {
+	.sidebar-2K8pFh:hover .usernameFont-aFalyR {
 	    opacity: 1;
 	}
 
-    .channels-Ie2l6A:hover .userSmall-2t9H7n {
+    .sidebar-2K8pFh:hover .userSmall-2t9H7n {
         height: 32px;
         margin-left: 0px;
     }
     
-    .channels-Ie2l6A:hover .avatarSmall-2CW6I1 {
+    .sidebar-2K8pFh:hover .avatarSmall-2CW6I1 {
         width: 24px;
         height: 24px;
     }
@@ -494,7 +473,7 @@
     	    transition-delay: 0.8s;
     	}
     	
-    	.channels-Ie2l6A:hover .description-1MbtwQ { opacity: 1; }
+    	.sidebar-2K8pFh:hover .description-1MbtwQ { opacity: 1; }
 
 /* Members */
 .theme-dark .members-1998pB {background-color: rgb(var(--dark-clr));}
