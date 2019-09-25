@@ -18,35 +18,33 @@ Keep in mind that the channel tab, chat and member tab are all compacted until y
 
 > NEW IN 3.1: Fixes for new Discord update + sleeker style for streaming banner
 
+> NEW IN 3.1.2: Multiple fixes to the channels bar and reduced file size
+
 ## Created for BetterDiscord
 This theme requires Better Discord to function, as "vanilla" Discord does not currently support custom themes.
 
 Get Better Discord @ - https://betterdiscord.net/home/
 
 ### Files
-**Source Code -** For copy/pasting into the "Custom CSS" tab, use this if you wish to customize a few bits for yourself.
-**NOTE:** If you're using this file, you need to grab the `:root { }` section from the theme file and add it to the top of the code to get the colors and the background image.
+**Source Code -** For copy/pasting into the "Custom CSS" tab.
 
-**Theme File -** For dragging into the "Themes" folder for Better Discord, use this for an easy install.
-
-**Preview -** Shows how Discord appears with this theme installed. ("Stock" image and color used.)
+**Readme.md** - This file.
 
 ### How do I change the background image for chat?
 First off, I'd recommend using an image with a wallpaper-standard resolution.
 
 To use an image, you need a hyperlink for it. (E.g. https://imagedomain.com/thisimage.jpg) Must have *.jpg* or *.png* extension.
 
-- To change the image or colors with the source code, copy the root section from the theme file to the top of the code in the source file.
-- To change the image or colors with the theme file, open it in notepad.
+- To change the image or colors, you need to modiby the variables in the *:root* section at the top of the code.
 
-With this hyperlink, change the `--img-url` variable's hyperlink to the image you wish to use.
+With this hyperlink, change the `--img-url` variables hyperlink to the image you wish to use.
 
 `--img-url: url(**CHANGE THIS**);`
 
 ### Changing the Main Color
 The main color can also be changed. It uses standard RGB.
 
-Edit the `--main-clr` variable.
+Edit the `--main-clr` variable in the *:root* section, which is at the top of the code.
 
 `--main-clr: RED, GREEN, BLUE;`
 
