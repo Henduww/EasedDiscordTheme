@@ -4,7 +4,7 @@ Aims to compact and simplify Discord by adding hover and focus effects on uneces
 When using Discord on a 2nd monitor, it's nice to not have everything clutter the chat, as that's what you really wanna see. This theme adds hover functionality to compact the chat form, the channels, the guild list, and members list.
 
 > VIDEO PREVIEW (Showcases hover functionality):
-> https://i.gyazo.com/a6b533e41f52173323003a5063ed88ff.mp4
+> https://i.gyazo.com/87506795503770bffc53bf893e8250f4.mp4
 
 A few examples of how you can customize the theme: (takes about 2-3 minutes if you're slow)
 
