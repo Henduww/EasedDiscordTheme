@@ -1,24 +1,22 @@
-# EasedDiscordTheme 3.1
+# EasedDiscordTheme 3.2
 Aims to compact and simplify Discord by adding hover and focus effects on unecessary clutter. (Background image and color can be changed.)
 
 When using Discord on a 2nd monitor, it's nice to not have everything clutter the chat, as that's what you really wanna see. This theme adds hover functionality to compact the chat form, the channels, the guild list, and members list.
 
 > VIDEO PREVIEW (Showcases hover functionality):
-> https://i.gyazo.com/87506795503770bffc53bf893e8250f4.mp4
+> https://i.gyazo.com/503f4c6199189bbb4979d8c0aa74da2e.mp4
 
 A few examples of how you can customize the theme: (takes about 2-3 minutes if you're slow)
 
-Keep in mind that the channel tab, chat and member tab are all compacted until you hover them.
+Keep in mind that the channel tab, chat and member tab are all compacted until you hover them. The video preview also only shows the channel aspect of the theme, there are a lot of other changes made to the settings, the login-screen etc.
 
 <img src="https://camo.githubusercontent.com/98c7e9c59dbedb4efe8d881739d82ff225960448/68747470733a2f2f692e6779617a6f2e636f6d2f31363831313038353038656164646437636665303730383463366563643339622e6a7067" alt="Example 1" data-canonical-src="https://i.gyazo.com/1681108508eaddd7cfe07084c6ecd39b.jpg" width="245" style="">
 <img src="https://camo.githubusercontent.com/31c66aad77dd3b50115e5b360ee090009013f45d/68747470733a2f2f692e6779617a6f2e636f6d2f37303365643935313936633836313965326130616466323565346437313162322e6a7067" alt="Example 2" data-canonical-src="https://i.gyazo.com/703ed95196c8619e2a0adf25e4d711b2.jpg" width="245px" style="">
 <img src="https://camo.githubusercontent.com/cee1109ceb0eb0ee3fad3fb7e334e173236943d6/68747470733a2f2f692e6779617a6f2e636f6d2f65656536323833313865313933306666393163356536393663333031363532322e6a7067" alt="Example 3" data-canonical-src="https://i.gyazo.com/eee628318e1930ff91c5e696c3016522.jpg" width="245px" style="">
 
-> NOTE: Some small details may be outdated in the examples. GIF should always be up-to date.
+> NOTE: Some small details may be outdated in the examples. Video preview should always be up-to date.
 
-> NEW IN 3.1: Fixes for new Discord update + sleeker style for streaming banner
-
-> NEW IN 3.1.2: Multiple fixes to the channels bar and reduced file size
+> NEW IN 3.2: Massive changes to settings and login-screen, as well as improvements to already modified aspects of the theme
 
 ## Created for BetterDiscord
 This theme requires Better Discord to function, as "vanilla" Discord does not currently support custom themes.
@@ -26,7 +24,7 @@ This theme requires Better Discord to function, as "vanilla" Discord does not cu
 Get Better Discord @ - https://betterdiscord.net/home/
 
 ### Files
-**Source Code -** For copy/pasting into the "Custom CSS" tab.
+**Source Code -** For copy/pasting into the "Custom CSS" tab. (This can be found at the bottom of user-settings once Better Discord has been installed.)
 
 **Readme.md** - This file.
 
