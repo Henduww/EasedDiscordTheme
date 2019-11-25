@@ -5,26 +5,12 @@
     --dark-clr: 30, 30, 30; /* Dark color RGB, the darkest shade */
 }
 
-/* Login */
-.authBox-hW6HRx {
-    border: 1px solid rgba(var(--main-clr), 0.85);
-    background-color: rgba(var(--dark-clr), 0.95);
-}
-
-.input-cIJ7To {
-    border: 1px solid rgba(var(--main-clr), 0.45);
-}
-
-.input-cIJ7To:focus {
-    border: 1px solid rgb(var(--main-clr));
-}
-
 /* Home Button */
 .childWrapper-anI2G9 {
     color: rgb(var(--main-clr));
 }
 
-.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .childWrapper-anI2G9:hover {
+.childWrapper-anI2G9:hover {
     background-color: rgba(var(--main-clr), 0.5) !important;
 }
 
@@ -177,7 +163,7 @@
 }
 
 /* Top Bar (Server Info) */
-.theme-dark .container-2Rl01u, .header-2o-2hj, .searchBar-6Kv8R2 { background: rgba(var(--main-clr), 0.41); }
+.theme-dark .container-2Rl01u, .header-2o-2hj, .searchBar-6Kv8R2 { background: rgba(var(--main-clr), 0.11); }
 .theme-dark .title-3qD0b-, .theme-dark .container-1r6BKw { background: rgba(var(--main-clr), 0.2); }
 
 	/* Pin Menu */
@@ -393,25 +379,16 @@
 	        border: 1px solid rgba(var(--dark-clr), 0.3);
 	    }
 	    
-	    /* Hide current channel information */
-	    .labelWrapper-Pniq53 {
+	    .nameTag-3uD-yy.canCopy-2VBT7N {
 	        opacity: 0;
 	    }
 	    
-	    .ping-2NgC8E {
-	        margin-left: 55px;
-	    }
-	    
-	    .platform-win .sidebar-2K8pFh:hover .labelWrapper-Pniq53 {
+	    .platform-win .sidebar-2K8pFh:hover .nameTag-3uD-yy.canCopy-2VBT7N {
 	        opacity: 1;
-	    }
-	    
-	    .platform-win .sidebar-2K8pFh:hover .ping-2NgC8E {
-	        margin-left: 3px;
 	    }
 	
 	    /* Stream banner */
-	    .info-WdNIDE {
+	    .gameName-13va7o {
 	        opacity: 0;
 	    }
 	    
@@ -420,7 +397,8 @@
 	        opacity: 0.35;
 	    }
 	    
-	    .platform-win .sidebar-2K8pFh:hover .info-WdNIDE {
+	    .platform-win .sidebar-2K8pFh:hover .gameName-13va7o,
+	    .platform-win .sidebar-2K8pFh:hover .actions-aUdUfC {
 	        opacity: 1;
 	    }
 	    
@@ -431,11 +409,6 @@
 	    .platform-win .sidebar-2K8pFh:hover .gameIcon-2YB8Et {
     	    margin-left: 0px;
     	}
-    	
-    	.panel-24C3ux {
-    	    border-bottom: 0px;
-    	}
-    	
 	/* Dynamic Channels */
 	.sidebar-2K8pFh,
 	.usernameFont-aFalyR,
@@ -444,10 +417,9 @@
 	.container-1giJp5 .horizontal-1ae9ci .button-2JbWXs,
 	.container-1giJp5 .horizontal-1ae9ci,
 	.pingStatus-Jv9VGK,
-	.ping-2NgC8E,
-	.labelWrapper-Pniq53,
-	.info-WdNIDE,
-	.gameIcon-2YB8Et {
+	.gameName-13va7o,
+	.gameIcon-2YB8Et,
+	.nameTag-3uD-yy.canCopy-2VBT7N {
 	    transition: 0.4s;
 	    transition-delay: 1.2s;
 	}
@@ -489,10 +461,11 @@
     }
     
 	/* Channels Functionality */
-	   /*.usernameFont-aFalyR {
+	
+	/* DYNAMIC AVATARS
+	   .usernameFont-aFalyR {
 	        opacity: 0;
 	   }
-	   
 	   
 	   .userSmall-2t9H7n {
 	       height: 55px;
@@ -503,7 +476,8 @@
 	       width: 44px;
 	       height: 44px;
 	   }
-	   */
+	   /*
+	   
 	    /* Bottom Panel Functionality */
     	.description-1MbtwQ {
     	    opacity: 0;
@@ -519,10 +493,6 @@
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {background-color: rgba(var(--main-clr), 0.11);}
 
 .theme-dark .content-OzHfo4 { border-radius: 5px; }
-
-.theme-dark .membersGroup-v9BXpm {
-    color: rgba(var(--main-clr), 0.7);
-}
 
 	/* Dynamic Members */
 	.theme-dark .membersWrap-2h-GB4 { min-width: 49px; }
@@ -579,18 +549,6 @@
 	}
 
 /* Settings */
-.sidebarRegionScroller-3MXcoP {
-    background: var(--chat-bck);
-}
-
-.contentRegionScroller-26nc1e, .customScroller-26gWhv {
-    background: transparent;
-}
-
-.theme-dark .closeButton-1tv5uR {
-    border-color: rgb(var(--main-clr));
-}
-
 .contentTransitionWrap-3hqOEW {
     background: var(--chat-bck);
     background-size: 1920px 1080px;
@@ -628,20 +586,6 @@
 .theme-dark .lookFilled-1Gx00P.colorBrand-3pXr91:hover { background-color: rgb(var(--main-clr)); }
 
 .theme-dark .faded-3bns_w { color: rgb(var(--main-clr)); }
-
-.scroller-305q3I {
-    background-color: rgba(var(--dark-clr), 0.85);
-}
-
-/* Changelog */
-.theme-dark .modal-yWgWj- {
-    background-color: rgba(var(--dark-clr), 0.45);
-    border: 1px solid rgb(var(--main-clr));
-}
-
-.theme-dark .footer-3rDWdC {
-    background-color: rgba(var(--dark-clr), 0.75);
-}
 
 /* User Cards */
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 { background-color: rgb(var(--dark-clr)); }
